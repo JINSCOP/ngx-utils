@@ -1,4 +1,4 @@
-# @whvcse/utils
+# @whvcse/ngx-utils
 
 ## 版本发布计划
 
