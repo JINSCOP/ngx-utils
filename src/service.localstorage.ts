@@ -3,6 +3,8 @@ import { Provider } from '@angular/core';
 export class LocalStorage {
     public localStorage: any;
 
+
+    
     constructor() {
         if (!localStorage) {
             throw new Error('Current browser does not support Local Storage');
