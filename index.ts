@@ -2,7 +2,7 @@
 /// <reference path="./src/service.pinyin.ts" />
 
 // export * from './specifications.api';
-export * from './src/service.LocalStorage';
+export * from './src/localstorage.service';
 export * from './src/service.pinyin';
 export * from './src/text.pinyin';
 export * from './src/baseClass';
