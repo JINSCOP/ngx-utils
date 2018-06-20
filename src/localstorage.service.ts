@@ -3,8 +3,8 @@ import { Injectable } from '@angular/core';
 @Injectable({
   providedIn: 'root'
 })
-export class LocalStorage {
-  
+export class LocalStorageService {
+
   public localStorage: any;
 
   constructor() {
